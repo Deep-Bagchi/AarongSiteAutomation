@@ -1,9 +1,9 @@
 ### Aarong
 
-Online E-commerce Site.[Website](https://www.aarong.com/)  
+Online E-commerce Site.(https://www.aarong.com/)  
 
 ### How to Start
-- Mavaen Project Create
+- Maven Project Create
 - Add Necessary Dependency: Salenium,testng, webdrivermanager
 - Driver Setup
 - LOcation Finding Methods:
